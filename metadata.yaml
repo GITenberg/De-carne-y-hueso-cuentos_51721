@@ -1,0 +1,35 @@
+_repo: De-carne-y-hueso-cuentos_51721
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zamacois, Eduardo
+    aliases:
+    - Quintana, Eduardo Zamacois y
+    - Zamacois, E. (Eduardo)
+    birthdate: 1873
+    deathdate: 1971
+    gutenberg_agent_id: '26175'
+    url: http://www.gutenberg.org/2009/agents/26175
+    wikipedia: http://es.wikipedia.org/wiki/Eduardo_Zamacois
+description: ''
+gutenberg_issued: '2016-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51721'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction'
+- !lcsh 'Short stories, Spanish'
+- GITenberg
+tableOfContents: Introduccion -- Odio mortal -- Agonía -- Aguafuerte -- La muerta
+  -- Discreteos -- Gluck, el inimitable -- La herencia de un gran hombre -- A obscuras
+  -- La ocasión -- La hija del Sol -- Idolos caídos -- La abuela -- Entre ellas --
+  Germinal -- La cadena -- Por una errata -- Crepúsculo -- Lo horrible -- Marcela
+  -- El buen parecer -- Remordimiento -- Noche -- Lo inconfesable -- El amigo -- En
+  presidio -- La carta -- Declaración -- Un cuento raro -- La comedianta.
+title: De carne y hueso; cuentos
+url: http://www.gutenberg.org/ebooks/51721
